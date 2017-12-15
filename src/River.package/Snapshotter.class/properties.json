@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "River",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"relativePathToOriginalImageFile",
+		"snapshotCounter",
+		"snapshots"
+	],
+	"instvars" : [ ],
+	"name" : "Snapshotter",
+	"type" : "normal"
+}

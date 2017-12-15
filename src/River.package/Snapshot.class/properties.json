@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "River",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"imageFilePath",
+		"timestamp"
+	],
+	"name" : "Snapshot",
+	"type" : "normal"
+}
